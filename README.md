@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>Herramientas</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="90" height="90">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="90" height="90">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="90" height="90">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="90" height="90">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="90" height="90">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="65" height="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="65" height="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="65" height="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="65" height="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="65" height="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="90" height="90">
 </div>
 
